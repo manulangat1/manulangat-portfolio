@@ -1,0 +1,8 @@
+export const GET_HOME = "GET_HOME"
+export const GET_ABOUT = "GET_ABOUT"
+export const GET_PIC = "GET_PIC"
+export const GET_PROJ = "GET_PROJ"
+export const GET_CONTACT = "GET_CONTACT"
+export const GET_POST = "GET_POST"
+export const ADD_POST = "ADD_POST"
+export const GET_POST_DETAIL = "GET_POST_DETAIL"
